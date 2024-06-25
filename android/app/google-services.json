@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158647052499",
+    "project_id": "rescentify-922c3",
+    "storage_bucket": "rescentify-922c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158647052499:android:059fbd68f5922638148c26",
+        "android_client_info": {
+          "package_name": "com.example.uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW_QUr7f0LBBbswroY8-267PvQqSraBIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
