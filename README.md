@@ -61,7 +61,8 @@ Berikut kode login page ke aplikasi :
       );
     }}
    
-- Pada page sign up digunakan untuk membuat akun yang dimana data yang di isi akan di simpan dalam firebase 
+- Pada page sign up digunakan untuk membuat akun yang dimana data yang di isi akan di simpan dalam firebase
+
 ![enter image description here](https://github.com/AnggiAdnyani/Rescentify/blob/main/assets/gambar/sign%20up%20page.jpg?raw=true)
 
 Berikut kode untuk menyimpan data user ke firebase :
